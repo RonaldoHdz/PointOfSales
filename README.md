@@ -1,2 +1,4 @@
 # PointOfSales
-Punto de Venta
+Punto de Venta.
+Configuracion de ssh.
+Prueba de configuracion
